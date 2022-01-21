@@ -1,0 +1,7 @@
+#NeosRulez:
+#  Neos:
+#    UniqueProperties:
+#      uriPathSegmet:
+#        nodeTypes:
+#          - 'Acme.Site:Document.HomePage'
+#          - 'Acme.Site:Document.Page'
